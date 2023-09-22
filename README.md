@@ -18,7 +18,7 @@ No License added to Repo.
 
 ## Link to Deployed Application
 
-https://kurstiedehaven.github.io/refracted-code/
+https://kurstiedehaven.github.io/refracted-demo-page/
 
 ## Photo
 
